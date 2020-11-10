@@ -1,2 +1,3 @@
 wemerson file
 teste do merge wemerson
+Texto adicionado por Victor
